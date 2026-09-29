@@ -11,7 +11,7 @@ function Navbar() {
     <nav className="navbar">
       <div className="container navbar-content">
         <a href="#" className="logo" onClick={closeMenu}>
-          Ateeq<span>.</span>
+          Ateeq Malkani<span>.</span>
         </a>
 
         <div className={`nav-links ${menuOpen ? "mobile-open" : ""}`}>
